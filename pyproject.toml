@@ -25,8 +25,8 @@ dev = [
 "layered" = "accuralai_cache.layered:build_layered_cache"
 
 [project.urls]
-homepage = "https://github.com/accuralai/accuralai-cache"
-repository = "https://github.com/accuralai/accuralai-cache"
+homepage = "https://accural-ai.web.app/"
+repository = "https://github.com/AccuralAI/accuralai-cache"
 
 [build-system]
 requires = ["hatchling"]
