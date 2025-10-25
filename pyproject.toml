@@ -27,6 +27,7 @@ dev = [
 [project.urls]
 homepage = "https://accural-ai.web.app/"
 repository = "https://github.com/AccuralAI/accuralai-cache"
+documentation = "https://accuralai.readthedocs.io/en/latest/packages/accuralai-cache/index.html"
 
 [build-system]
 requires = ["hatchling"]
